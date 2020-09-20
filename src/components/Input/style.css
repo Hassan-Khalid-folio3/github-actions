@@ -1,0 +1,8 @@
+.input, .input:focus {
+  border-radius: 20px;
+  font-family: sans-serif;
+  background-color: bisque;
+  color: #3a3a3a;
+  padding: 5px;
+  outline: none;
+}
