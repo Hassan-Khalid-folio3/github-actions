@@ -33,4 +33,4 @@ jobs:
           ls
           
       - name: Run Unit Tests
-        run: npm -v
+        run: npm run test
